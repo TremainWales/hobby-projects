@@ -1,2 +1,3 @@
 sole purpose of editing pull request
 It works one way.
+does it work both?
