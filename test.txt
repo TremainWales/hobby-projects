@@ -2,3 +2,4 @@ sole purpose of editing pull request
 It works one way.
 does it work both?
 itmight work this way
+Does this one work?
